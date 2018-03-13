@@ -1,0 +1,40 @@
+body {
+  padding-left: 11em;
+  background: rgba(76, 175, 80, 0.5)}
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;}
+
+  li {
+    float: left;}
+
+  li a {
+    display: inline-block;
+    color: white;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;}
+
+  li a:hover {
+    background-color: #111;}
+
+  .active {
+    background-color: red;}
+
+  h1 {
+  text-align: left;
+  color: #308430;
+  font-family: Arial;}
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    float: right;}
+
+ 
